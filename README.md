@@ -26,19 +26,14 @@ A Streamlit web application that detects dysgraphic handwriting and converts it 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/jonsafwat/Dysgraphia-text-translator.git
+cd <Dysgraphia-text-translator>
 ```
 
 Install the required libraries:
 
 ```bash
-pip install streamlit
-pip install easyocr
-pip install google-generativeai
-pip install opencv-python
-pip install pillow
-pip install numpy
+pip install streamlit easyocr google-generativeai opencv-python pillow numpy
 ```
 
 ## Configuration

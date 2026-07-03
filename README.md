@@ -27,7 +27,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/jonsafwat/Dysgraphia-text-translator.git
-cd <Dysgraphia-text-translator>
+cd Dysgraphia-text-translator
 ```
 
 Install the required libraries:
